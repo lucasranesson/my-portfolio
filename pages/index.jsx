@@ -106,7 +106,7 @@ function Home() {
                                     </a>
                                 </div>
                                 <div>
-                                    <a href="https://sansatri.com.br/" target="_blank">
+                                    <a href="https://broopzschool.com.br/" target="_blank">
                                         <Image
                                             src={broopz}
                                             className="rounded w-full"
